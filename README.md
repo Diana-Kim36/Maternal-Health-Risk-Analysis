@@ -42,6 +42,6 @@ reports/     # Final project report
 The model predicts maternal health risk levels and provides visual insights through an interactive dashboard to support healthcare decision-making.
 
 ## Author
+
 *Diana Kimanzi*
 
-Aspiring Healthcare Analyst
