@@ -155,41 +155,23 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 </p>
 
 ### 📌 Blood Sugar Distribution
-```markdown
-![Blood Sugar Distribution](images/blood_sugar_distribution.png)
-```
+<p align="center">
+  <img src="images/blood_sugar_distribution.png" width="750" alt="Blood Sugar Distribution">
+</p>
 
 ### 📌 Feature Importance Chart
-```markdown
-![Feature Importance](images/feature_importance.png)
-```
+<p align="center">
+  <img src="images/feature_importance.png" width="750" alt="Feature Importance Chart">
+</p>
 
-### 📌 Model Performance
-```markdown
-![Model Performance](images/model_performance.png)
-```
-
-### 📌 Limitations
-```markdown
-![Limitations](images/limitations.png)
-```
-
-### 📌 Conclusion
-```markdown
-![Conclusion](images/conclusion.png)
-```
 
 ### Example Display
-
-![Project Overview](images/overview.png)
 
 ![Correlation Matrix](images/correlation_matrix.png)
 
 ![Blood Sugar Distribution](images/blood_sugar_distribution.png)
 
 ![Feature Importance](images/feature_importance.png)
-
-![Model Performance](images/model_performance.png)
 
 ---
 
