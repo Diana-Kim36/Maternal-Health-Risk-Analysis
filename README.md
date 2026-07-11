@@ -159,21 +159,7 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
   <img src="images/blood_sugar_distribution.png" width="750" alt="Blood Sugar Distribution">
 </p>
 
-### 📌 Feature Importance Chart
-<p align="center">
-  <img src="images/feature_importance.png" width="750" alt="Feature Importance Chart">
-</p>
 
-
-### Example Display
-
-![Correlation Matrix](images/correlation_matrix.png)
-
-![Blood Sugar Distribution](images/blood_sugar_distribution.png)
-
-![Feature Importance](images/feature_importance.png)
-
----
 
 ## 🔍 Feature Importance
 
@@ -196,6 +182,12 @@ The **Random Forest model (200 trees)** assigned the following relative importan
 - **Body Temperature** contributes the least
 
 ---
+
+### 📌 Feature Importance Chart
+<p align="center">
+  <img src="images/feature_importance.png" width="750" alt="Feature Importance Chart">
+</p>
+
 
 ## 🤖 Model Performance
 
