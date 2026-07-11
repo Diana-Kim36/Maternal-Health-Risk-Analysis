@@ -206,7 +206,7 @@ The **Random Forest model (200 trees)** assigned the following relative importan
 
 ---
 
-### 📌 Feature Importance Chart
+### 📌 Factors Driving Maternal Health Risk
 <p align="center">
   <img src="images/feature_importance.png" width="750" alt="Feature Importance Chart">
 </p>
