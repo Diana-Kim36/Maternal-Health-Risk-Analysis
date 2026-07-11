@@ -58,12 +58,11 @@ The goal is to support:
 - [Model Performance](#-model-performance)
 - [Clinical Findings](#-clinical-findings)
 - [Recommendations](#-recommendations)
-- [Limitations](#-limitations)
+- [Limitations](#limitations)
 - [Conclusion](#-conclusion)
 - [Tools & Technologies](#-tools--technologies)
 - [Repository Structure](#-repository-structure)
-- [Author](#-author)
-
+- [Author](#author)
 ---
 
 ## 🧠 Executive Summary
