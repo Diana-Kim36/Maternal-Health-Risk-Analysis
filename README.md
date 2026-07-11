@@ -177,12 +177,17 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 </p>
 
 
+
 ### 📌 Blood Sugar Distribution
 <p align="center">
   <img src="images/blood_sugar_distribution.png" width="750" alt="Blood Sugar Distribution">
 </p>
 
-
+<p align="center">
+  <em>
+    Figure 2. Blood sugar distribution by maternal risk level. Low-risk pregnancies cluster in the 6–8 mmol/L range, mid-risk in 6–9 mmol/L, and high-risk cases scatter across 10–19 mmol/L with peaks at 11 and 15 mmol/L. This clear separation demonstrates blood sugar's strong discriminatory power for risk stratification.
+  </em>
+</p>
 
 ## 🔍 Feature Importance
 
@@ -211,6 +216,10 @@ The **Random Forest model (200 trees)** assigned the following relative importan
   <img src="images/feature_importance.png" width="750" alt="Feature Importance Chart">
 </p>
 
+<p align="center">
+  <em>
+    Figure 3. Feature importance bar chart from the Random Forest model. Blood Sugar dominates at 36.4%, followed by systolic blood pressure (18.2%) and age (16.2%). This ranking guides clinical priorities for risk assessment and monitoring.
+</p>
 
 ## 🤖 Model Performance
 
