@@ -158,7 +158,7 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 
 ### 📌 Correlation Matrix
 ```markdown
-![Correlation Matrix](images/correlation_matrix.png)
+[![Correlation Matrix](images/correlation_matrix.png)](images/correlation_matrix.png)
 ```
 
 ### 📌 Blood Sugar Distribution
