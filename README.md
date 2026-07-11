@@ -149,17 +149,10 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 
 ## 🖼 Key Visualizations
 
-> Upload your screenshots into a folder called **`images`** in your GitHub repository, then use the image paths below.
-
-### 📌 Project Overview
-```markdown
-![Project Overview](images/overview.png)
-```
-
-### 📌 Correlation Matrix
-```markdown
-[![Correlation Matrix](images/correlation_matrix.png)]
-```
+### 📌 Correlation Matrix Analysis
+<p align="center">
+  <img src="images/correlation_matrix.png" width="750" alt="Correlation Matrix">
+</p>
 
 ### 📌 Blood Sugar Distribution
 ```markdown
