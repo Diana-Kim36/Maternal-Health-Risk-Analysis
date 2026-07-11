@@ -436,8 +436,7 @@ Maternal-Health-Risk-Analysis/
 ## 👩‍💻 Author
 
 **Diana Kimanzi**  
-*Master of Science in Business Analytics*  
-**Healthcare Analytics | Data Science | Machine Learning**
+(https://www.linkedin.com/in/your-profile-name/)
 
 ---
 
