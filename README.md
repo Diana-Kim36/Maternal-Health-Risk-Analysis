@@ -66,8 +66,7 @@ The goal is to support:
 
 - [Recommendations](#-recommendations)
   
-
-- [Limitations](#-limitations)
+- [Limitations](#-limitations-)
 
 - [Conclusion](#-conclusion)
 
@@ -75,8 +74,7 @@ The goal is to support:
 
 - [Repository Structure](#-repository-structure)
   
-
-- [Author](#-author)
+- [Author](#-author-)
 
   
 
