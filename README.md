@@ -167,8 +167,15 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 
 ### 📌 Correlation Matrix Analysis
 <p align="center">
-  <img src="images/correlation_matrix.png" width="750" alt="Correlation Matrix">
+  <img src="images/correlation_matrix.png" width="800" alt="Correlation Matrix">
 </p>
+
+<p align="center">
+  <em>
+    Figure 1. Correlation matrix heatmap of maternal health features and risk level. Blood Sugar shows the strongest positive correlation with risk (0.57), followed by Systolic BP (0.40) and Diastolic BP (0.35). The matrix reveals multicollinearity between blood pressure measures (0.79) and inverse relationships between body temperature and age/blood pressure metrics, which are controlled for in the random forest model.
+  </em>
+</p>
+
 
 ### 📌 Blood Sugar Distribution
 <p align="center">
