@@ -436,7 +436,7 @@ Maternal-Health-Risk-Analysis/
 ## 👩‍💻 Author
 
 **Diana Kimanzi**  
-(https://www.linkedin.com/in/your-profile-name/)
+(https://www.linkedin.com/in/diana-kimanzi/)
 
 ---
 
