@@ -50,19 +50,35 @@ The goal is to support:
 
 ## 📚 Table of Contents
 
-- [Executive Summary](#executive-summary)
-- [Dataset Overview](#dataset-overview)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Key Visualizations](#key-visualizations)
-- [Feature Importance](#feature-importance)
-- [Model Performance](#model-performance)
-- [Clinical Findings](#clinical-findings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [Conclusion](#conclusion)
-- [Tools & Technologies](#tools-and-technologies)
-- [Repository Structure](#repository-structure)
-- [Author](#author)
+- [Executive Summary](#-executive-summary)
+
+- [Dataset Overview](#-dataset-overview)
+
+- [Exploratory Data Analysis](#-exploratory-data-analysis)
+
+- [Key Visualizations](#-key-visualizations)
+
+- [Feature Importance](#-feature-importance)
+
+- [Model Performance](#-model-performance)
+
+- [Clinical Findings](#-clinical-findings)
+
+- [Recommendations](#-recommendations)
+  
+
+- [Limitations](#-limitations)
+
+- [Conclusion](#-conclusion)
+
+- [Tools & Technologies](#-tools--technologies)
+
+- [Repository Structure](#-repository-structure)
+  
+
+- [Author](#-author)
+
+  
 
 ---
 
