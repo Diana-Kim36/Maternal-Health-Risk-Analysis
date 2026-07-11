@@ -164,9 +164,7 @@ A **Kruskal-Wallis non-parametric test** confirmed that all six clinical feature
 ## 🖼 Key Visualizations
 
 ### 📌 Correlation Matrix Analysis
-<p align="center">
-  <img src="images/correlation_matrix.png" width="800" alt="Correlation Matrix">
-</p>
+🔗 [Open Correlation Matrix](images/correlation_matrix.png)
 
 <p align="center">
   <em>
